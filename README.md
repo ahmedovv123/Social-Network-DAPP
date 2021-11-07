@@ -1,5 +1,7 @@
 # social-network
 
+Experimental DAPP which allows users to post new posts and other can tip thoose posts by sending 0.1 ETH
+
 ## Project setup
 ```
 npm install
